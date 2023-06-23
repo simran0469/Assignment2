@@ -1,0 +1,25 @@
+.ProductItem{
+    width:80%;
+    
+    margin:auto;
+     display: flex;
+     text-align: left;
+     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+     /* padding: 5px 5px 5px 5px; */
+     background-color: white;
+     
+     margin:20px 80px 20px 120px;
+     
+ }
+ .ProductItem h2{
+     margin-bottom: 15px;
+     font-size: 2rem;
+ 
+ }
+ .ProductItem img{
+     margin-top: 10px;
+ }
+ .ProductItem p{
+    font-size: 13px;
+    
+ }
