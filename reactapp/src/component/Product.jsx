@@ -23,6 +23,7 @@ function Product(){
             {data.map((item)=>(
              <ProductItem 
              key={item.id}
+             username={item.username}
              name={item.name}
              email={item.email}
              phone={item.phone}
